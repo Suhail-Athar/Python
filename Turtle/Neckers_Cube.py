@@ -1,40 +1,37 @@
 #import the turtle modules 
 import turtle as c
 
-# background color green 
+#Customizing the turtle 
 c.shape("circle")
 c.shapesize(1,1)
 c.bgcolor("black")
 c.width(7)
 c.color("white")
-
-#c.pencolor("yellow")
 c.speed(1)
 
-# forming front square face 
+#Square face 1 
 for i in range(4): 
 	c.forward(150); c.dot(20, "red") 
 	c.left(90) 
 
-# bottom left side 
+#Middle part
 c.goto(75,75)
 
-# forming back square face 
+#Square face 2 
 for i in range(4): 
 	c.forward(150); c.dot(20, "yellow") 
 	c.left(90) 
 
-# bottom right side 
+#Bottom right
 c.goto(225,75) 
 c.goto(150,0) 
 
-# top right side 
+#Top right 
 c.goto(150,150) 
 c.goto(225,225) 
 
-# top left side 
+#Top left 
 c.goto(75,225) 
 c.goto(0,150)
 
-c.mainloop()
-
+c.done()
