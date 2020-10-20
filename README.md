@@ -1,8 +1,4 @@
 # Python 3.9
 #Elementary Level Python Code
-<<<<<<< HEAD
-
-<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">Ready Made code for educational purposes. Copy, Paste and Run.
-
-=======
->>>>>>> parent of adb6911... Update README.md
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/CodingTrain/website/blob/main/.github/logo.png?raw=true"><img width="800" alt="The Coding Train Logo" src="https://github.com/CodingTrain/website/raw/main/.github/logo.png?raw=true" style="max-width:100%;"></a>
+# Ready Made code for educational purpose. Copy, Paste and Run.
