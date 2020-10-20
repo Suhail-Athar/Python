@@ -23,8 +23,3 @@ def suhail():
 
 while True:
     suhail ()
-#G=input("Would you like to calculate again? [y/n] > ")
-#if G=='y':
-#     suhail()
-#else:
-#     print("Terminating the program...")
