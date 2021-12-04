@@ -1,4 +1,4 @@
-#insert your json string in uglyjason to make it readable.
+#insert your json string in uglyjason variable to make it readable.
 
 import json
 
